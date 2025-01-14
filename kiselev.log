@@ -1,0 +1,6 @@
+2025-01-13 23:56:52.128  WARN 12548 --- [main] c.k.spring.database.pool.ConnectionPool  : Init connection pool
+2025-01-13 23:56:52.149  WARN 12548 --- [main] c.k.spring.database.pool.ConnectionPool  : Init connection pool
+2025-01-13 23:56:52.151  WARN 12548 --- [main] c.k.spring.database.pool.ConnectionPool  : Init connection pool
+2025-01-13 23:56:52.270  INFO 12548 --- [SpringApplicationShutdownHook] c.k.spring.database.pool.ConnectionPool  : Clean connection pool
+2025-01-13 23:56:52.270  INFO 12548 --- [SpringApplicationShutdownHook] c.k.spring.database.pool.ConnectionPool  : Clean connection pool
+2025-01-13 23:56:52.271  INFO 12548 --- [SpringApplicationShutdownHook] c.k.spring.database.pool.ConnectionPool  : Clean connection pool
